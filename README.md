@@ -40,7 +40,7 @@
 
 2. Run the XSSfinder script:
     ```bash
-    python xssfinder.py
+    python3 xssfinder.py
     ```
    Adjust the command based on your Python environment and script location.
 
