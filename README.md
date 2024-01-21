@@ -21,7 +21,7 @@
 
 1. Run the following command to download and install waybackurls using Go:
     ```bash
-    go get github.com/tomnomnom/waybackurls
+    go install github.com/tomnomnom/waybackurls@latest
     ```
 
 2. Verify the installation:
